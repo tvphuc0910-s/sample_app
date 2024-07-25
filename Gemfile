@@ -44,6 +44,8 @@ gem "bootsnap", require: false
 gem "bootstrap", "~> 5.0.0"
 gem "sassc-rails"
 gem "bcrypt", "~> 3.1.7"
+gem "rails-i18n"
+
 
 
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
